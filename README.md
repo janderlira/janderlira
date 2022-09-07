@@ -2,6 +2,7 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+
 ![Janderlira GitHub stats](https://github-readme-stats.vercel.app/api?username=janderlira&show_icons=true&theme=dark)
 <!--(font:)https://github.com/anuraghazra/github-readme-stats-->
 ## Tecnologias que eu estudo
